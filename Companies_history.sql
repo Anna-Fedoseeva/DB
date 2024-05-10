@@ -1,7 +1,6 @@
 INSERT INTO Companies_history (Company_id, Start_valid, End_valid, Company_name)
 VALUES
     (1, '2020-01-01', '2021-12-31', 'Аэрофлот'),
-    (1, '2020-01-01', '2021-12-31', 'Aeroflot'),
     (1, '2022-01-01', '2022-12-31', 'Aeroflot International'),
     (1, '2023-01-01', '2023-12-31', 'Aeroflot Airways'),
     (1, '2024-01-01', '2024-12-31', 'Aeroflot Russian Airlines'),
