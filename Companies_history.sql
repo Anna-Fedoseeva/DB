@@ -1,0 +1,26 @@
+INSERT INTO Companies_history (Company_id, Start_valid, End_valid, Company_name)
+VALUES
+    (1, '2020-01-01', '2021-12-31', 'Аэрофлот'),
+    (1, '2022-01-01', '2022-12-31', 'Aeroflot International'),
+    (1, '2023-01-01', '2023-12-31', 'Aeroflot Airways'),
+    (1, '2024-01-01', '2024-12-31', 'Aeroflot Russian Airlines'),
+    (2, '2019-01-01', '2021-12-31', 'S7 Airlines'),
+    (3, '2018-01-01', '2021-12-31', 'Delta Air Lines'),
+    (4, '2017-01-01', '2021-12-31', 'Air France'),
+    (5, '2016-01-01', '2021-12-31', 'Japan Airlines'),
+    (6, '2015-01-01', '2021-12-31', 'British Airways'),
+    (7, '2014-01-01', '2021-12-31', 'Lufthansa'),
+    (8, '2013-01-01', '2021-12-31', 'Alitalia'),
+    (9, '2012-01-01', '2021-12-31', 'Air China'),
+    (10, '2011-01-01', '2021-12-31', 'Emirates'),
+    (11, '2010-01-01', '2021-12-31', 'Qantas'),
+    (12, '2009-01-01', '2021-12-31', 'Air Canada'),
+    (13, '2008-01-01', '2021-12-31', 'China Eastern Airlines'),
+    (14, '2007-01-01', '2021-12-31', 'Singapore Airlines'),
+    (15, '2006-01-01', '2021-12-31', 'Cathay Pacific'),
+    (16, '2005-01-01', '2021-12-31', 'All Nippon Airways'),
+    (17, '2004-01-01', '2021-12-31', 'Korean Air'),
+    (18, '2003-01-01', '2021-12-31', 'Turkish Airlines'),
+    (19, '2002-01-01', '2021-12-31', 'Etihad Airways'),
+    (20, '2001-01-01', '2021-12-31', 'Saudi Arabian Airlines');
+
