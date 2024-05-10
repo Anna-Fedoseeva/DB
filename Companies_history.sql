@@ -1,6 +1,10 @@
 INSERT INTO Companies_history (Company_id, Start_valid, End_valid, Company_name)
 VALUES
     (1, '2020-01-01', '2021-12-31', 'Аэрофлот'),
+    (1, '2020-01-01', '2021-12-31', 'Aeroflot'),
+    (1, '2022-01-01', '2022-12-31', 'Aeroflot International'),
+    (1, '2023-01-01', '2023-12-31', 'Aeroflot Airways'),
+    (1, '2024-01-01', '2024-12-31', 'Aeroflot Russian Airlines'),
     (2, '2019-01-01', '2021-12-31', 'S7 Airlines'),
     (3, '2018-01-01', '2021-12-31', 'Delta Air Lines'),
     (4, '2017-01-01', '2021-12-31', 'Air France'),
@@ -20,3 +24,4 @@ VALUES
     (18, '2003-01-01', '2021-12-31', 'Turkish Airlines'),
     (19, '2002-01-01', '2021-12-31', 'Etihad Airways'),
     (20, '2001-01-01', '2021-12-31', 'Saudi Arabian Airlines');
+
